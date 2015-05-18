@@ -1,2 +1,2 @@
-# MyFirstRepo
-For test and study Git
+# Git Tutorial
+ - feature-A Branch
